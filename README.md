@@ -10,7 +10,6 @@ This project requires Python 3 and the requests package.
 First install pipenev. Then:
 
 ```
-
 pipenev install
 pipenv run "python meteors/find_meteors.py"
 ```
